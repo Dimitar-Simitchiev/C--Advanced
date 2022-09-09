@@ -1,0 +1,15 @@
+C:\Users\Simitchiev\source\repos\SoftUniExercises\SoftUniExercises\bin\Debug\net6.0\SoftUniExercises.exe
+C:\Users\Simitchiev\source\repos\SoftUniExercises\SoftUniExercises\bin\Debug\net6.0\SoftUniExercises.deps.json
+C:\Users\Simitchiev\source\repos\SoftUniExercises\SoftUniExercises\bin\Debug\net6.0\SoftUniExercises.runtimeconfig.json
+C:\Users\Simitchiev\source\repos\SoftUniExercises\SoftUniExercises\bin\Debug\net6.0\SoftUniExercises.dll
+C:\Users\Simitchiev\source\repos\SoftUniExercises\SoftUniExercises\bin\Debug\net6.0\SoftUniExercises.pdb
+C:\Users\Simitchiev\source\repos\SoftUniExercises\SoftUniExercises\obj\Debug\net6.0\SoftUniExercises.csproj.AssemblyReference.cache
+C:\Users\Simitchiev\source\repos\SoftUniExercises\SoftUniExercises\obj\Debug\net6.0\SoftUniExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simitchiev\source\repos\SoftUniExercises\SoftUniExercises\obj\Debug\net6.0\SoftUniExercises.AssemblyInfoInputs.cache
+C:\Users\Simitchiev\source\repos\SoftUniExercises\SoftUniExercises\obj\Debug\net6.0\SoftUniExercises.AssemblyInfo.cs
+C:\Users\Simitchiev\source\repos\SoftUniExercises\SoftUniExercises\obj\Debug\net6.0\SoftUniExercises.csproj.CoreCompileInputs.cache
+C:\Users\Simitchiev\source\repos\SoftUniExercises\SoftUniExercises\obj\Debug\net6.0\SoftUniExercises.dll
+C:\Users\Simitchiev\source\repos\SoftUniExercises\SoftUniExercises\obj\Debug\net6.0\refint\SoftUniExercises.dll
+C:\Users\Simitchiev\source\repos\SoftUniExercises\SoftUniExercises\obj\Debug\net6.0\SoftUniExercises.pdb
+C:\Users\Simitchiev\source\repos\SoftUniExercises\SoftUniExercises\obj\Debug\net6.0\SoftUniExercises.genruntimeconfig.cache
+C:\Users\Simitchiev\source\repos\SoftUniExercises\SoftUniExercises\obj\Debug\net6.0\ref\SoftUniExercises.dll
