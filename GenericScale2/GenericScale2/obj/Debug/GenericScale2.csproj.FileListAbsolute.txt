@@ -1,0 +1,6 @@
+C:\Users\Simitchiev\source\repos\GenericScale2\GenericScale2\bin\Debug\GenericScale2.exe
+C:\Users\Simitchiev\source\repos\GenericScale2\GenericScale2\bin\Debug\GenericScale2.pdb
+C:\Users\Simitchiev\source\repos\GenericScale2\GenericScale2\obj\Debug\GenericScale2.csproj.AssemblyReference.cache
+C:\Users\Simitchiev\source\repos\GenericScale2\GenericScale2\obj\Debug\GenericScale2.csproj.CoreCompileInputs.cache
+C:\Users\Simitchiev\source\repos\GenericScale2\GenericScale2\obj\Debug\GenericScale2.exe
+C:\Users\Simitchiev\source\repos\GenericScale2\GenericScale2\obj\Debug\GenericScale2.pdb

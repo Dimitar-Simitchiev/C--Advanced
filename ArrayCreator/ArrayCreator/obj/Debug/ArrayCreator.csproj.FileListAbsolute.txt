@@ -1,0 +1,12 @@
+C:\Users\Simitchiev\source\repos\ArrayCreator\ArrayCreator\bin\Debug\ArrayCreator.exe
+C:\Users\Simitchiev\source\repos\ArrayCreator\ArrayCreator\bin\Debug\ArrayCreator.pdb
+C:\Users\Simitchiev\source\repos\ArrayCreator\ArrayCreator\obj\Debug\ArrayCreator.csproj.AssemblyReference.cache
+C:\Users\Simitchiev\source\repos\ArrayCreator\ArrayCreator\obj\Debug\ArrayCreator.csproj.CoreCompileInputs.cache
+C:\Users\Simitchiev\source\repos\ArrayCreator\ArrayCreator\obj\Debug\ArrayCreator.exe
+C:\Users\Simitchiev\source\repos\ArrayCreator\ArrayCreator\obj\Debug\ArrayCreator.pdb
+C:\Users\Simitchiev\Desktop\ArrayCreator\ArrayCreator\bin\Debug\ArrayCreator.exe
+C:\Users\Simitchiev\Desktop\ArrayCreator\ArrayCreator\bin\Debug\ArrayCreator.pdb
+C:\Users\Simitchiev\Desktop\ArrayCreator\ArrayCreator\obj\Debug\ArrayCreator.csproj.AssemblyReference.cache
+C:\Users\Simitchiev\Desktop\ArrayCreator\ArrayCreator\obj\Debug\ArrayCreator.csproj.CoreCompileInputs.cache
+C:\Users\Simitchiev\Desktop\ArrayCreator\ArrayCreator\obj\Debug\ArrayCreator.exe
+C:\Users\Simitchiev\Desktop\ArrayCreator\ArrayCreator\obj\Debug\ArrayCreator.pdb
