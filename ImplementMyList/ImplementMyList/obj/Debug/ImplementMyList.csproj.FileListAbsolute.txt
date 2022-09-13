@@ -1,0 +1,6 @@
+C:\Users\Simitchiev\source\repos\ImplementMyList\ImplementMyList\bin\Debug\ImplementMyList.exe
+C:\Users\Simitchiev\source\repos\ImplementMyList\ImplementMyList\bin\Debug\ImplementMyList.pdb
+C:\Users\Simitchiev\source\repos\ImplementMyList\ImplementMyList\obj\Debug\ImplementMyList.csproj.AssemblyReference.cache
+C:\Users\Simitchiev\source\repos\ImplementMyList\ImplementMyList\obj\Debug\ImplementMyList.csproj.CoreCompileInputs.cache
+C:\Users\Simitchiev\source\repos\ImplementMyList\ImplementMyList\obj\Debug\ImplementMyList.exe
+C:\Users\Simitchiev\source\repos\ImplementMyList\ImplementMyList\obj\Debug\ImplementMyList.pdb
