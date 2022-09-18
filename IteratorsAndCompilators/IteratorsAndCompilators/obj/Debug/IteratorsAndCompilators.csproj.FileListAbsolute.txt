@@ -1,0 +1,6 @@
+C:\Users\Simitchiev\source\repos\IteratorsAndCompilators\IteratorsAndCompilators\bin\Debug\IteratorsAndCompilators.exe
+C:\Users\Simitchiev\source\repos\IteratorsAndCompilators\IteratorsAndCompilators\bin\Debug\IteratorsAndCompilators.pdb
+C:\Users\Simitchiev\source\repos\IteratorsAndCompilators\IteratorsAndCompilators\obj\Debug\IteratorsAndCompilators.csproj.AssemblyReference.cache
+C:\Users\Simitchiev\source\repos\IteratorsAndCompilators\IteratorsAndCompilators\obj\Debug\IteratorsAndCompilators.csproj.CoreCompileInputs.cache
+C:\Users\Simitchiev\source\repos\IteratorsAndCompilators\IteratorsAndCompilators\obj\Debug\IteratorsAndCompilators.exe
+C:\Users\Simitchiev\source\repos\IteratorsAndCompilators\IteratorsAndCompilators\obj\Debug\IteratorsAndCompilators.pdb
